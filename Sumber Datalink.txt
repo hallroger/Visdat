@@ -1,0 +1,2 @@
+https://www.kaggle.com/imoore/us-covid19-dataset-live-hourlydaily-updates?select=States.csv
+https://www.kaggle.com/hendratno/covid19-indonesia
